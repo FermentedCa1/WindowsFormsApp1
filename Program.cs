@@ -18,5 +18,9 @@ namespace WindowsFormsApp1
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
         }
+
+        static void test()
+        {
+        }
     }
 }
