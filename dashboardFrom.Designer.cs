@@ -230,23 +230,27 @@
             // 
             // pictureBox3
             // 
+            this.pictureBox3.Image = global::WindowsFormsApp1.Properties.Resources.icons8_money_bag_80;
             this.pictureBox3.Location = new System.Drawing.Point(26, 20);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(80, 80);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 3;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox4
             // 
+            this.pictureBox4.Image = global::WindowsFormsApp1.Properties.Resources.icons8_money_40;
             this.pictureBox4.Location = new System.Drawing.Point(23, 20);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(80, 80);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 4;
             this.pictureBox4.TabStop = false;
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::WindowsFormsApp1.Properties.Resources.png_transparent_performance_improvement_search_engine_optimization_organization_computer_icons_human_organization_search_engine_optimization_logo_fictional_character__1_;
+            this.pictureBox2.Image = global::WindowsFormsApp1.Properties.Resources.icons8_group_80;
             this.pictureBox2.Location = new System.Drawing.Point(28, 20);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(80, 80);
@@ -256,7 +260,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.pngtree_film_reel_movie_icon_png_image_48557891;
+            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.icons8_movie_80__1_;
             this.pictureBox1.Location = new System.Drawing.Point(22, 20);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(80, 80);

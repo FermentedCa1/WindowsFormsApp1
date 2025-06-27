@@ -108,52 +108,31 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\pexels-david-bartus-43782-963278.jpg" />
+    <None Include="Resources\ảnh welcome.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\welcome_resized_455x238.jpg" />
+    <None Include="Resources\ảnh máy chiếu.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\welcome_color_resized_455x238.jpg" />
+    <None Include="Resources\ảnh user.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\6445.png_860.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\icons8-movie-80.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\c2636c12-837f-4956-84f8-148f345ae2b2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\c2636c12-837f-4956-84f8-148f345ae2b21.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\download.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\istockphoto-1366041014-1024x1024.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\pngtree-notification-sticker-bell-icon-alert-png-image_8075372.png" />
+    <None Include="Resources\ảnh chuông thông báo.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pngtree-notification-sticker-bell-icon-alert-png-image_80753721.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\pngtree-film-reel-movie-icon-png-image_4855789.png" />
+    <None Include="Resources\ảnh đồng tiền.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\pngtree-film-reel-movie-icon-png-image_48557891.png" />
+    <None Include="Resources\ảnh túi tiền.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character.png" />
+    <None Include="Resources\ảnh nhóm nhân viên.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character %281%29.png" />
+    <None Include="Resources\ảnh quận phim.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -103,9 +103,49 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_group_80 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-group-80", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_money_40 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-money-40", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_money_bag_80 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-money-bag-80", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_movie_80 {
             get {
                 object obj = ResourceManager.GetObject("icons8-movie-80", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_movie_80__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-movie-80 (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -182,6 +222,26 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap pngtree_film_reel_movie_icon_png_image_48557891 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-film-reel-movie-icon-png-image_48557891", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_film_roll_png_image_7716222 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-film-roll-png-image_7716222", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_film_roll_png_image_77162221 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-film-roll-png-image_77162221", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

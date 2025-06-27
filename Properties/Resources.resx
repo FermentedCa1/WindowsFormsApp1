@@ -130,11 +130,20 @@
   <data name="welcome_resized_455x238" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\welcome_resized_455x238.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pngtree-film-roll-png-image_7716222" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-film-roll-png-image_7716222.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-money-40" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-money-40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pngtree-film-reel-movie-icon-png-image_4855789" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-film-reel-movie-icon-png-image_4855789.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-group-80" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-group-80.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-film-reel-movie-icon-png-image_48557891" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-film-reel-movie-icon-png-image_48557891.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,25 +154,34 @@
   <data name="pexels-david-bartus-43782-963278" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pexels-david-bartus-43782-963278.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="istockphoto-1366041014-1024x1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\istockphoto-1366041014-1024x1024.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="welcome_color_resized_455x238" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\welcome_color_resized_455x238.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngtree-film-roll-png-image_77162221" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-film-roll-png-image_77162221.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-money-bag-80" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-money-bag-80.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-notification-sticker-bell-icon-alert-png-image_8075372" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-notification-sticker-bell-icon-alert-png-image_8075372.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="welcome_color_resized_455x238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\welcome_color_resized_455x238.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="6445.png_860" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6445.png_860.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-transparent-performance-improvement-search-engine-optimization-organization-computer-icons-human-organization-search-engine-optimization-logo-fictional-character (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-movie-80 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-movie-80 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
